@@ -1,0 +1,14 @@
+{
+	"name": "simple-react-apps",
+	"version": "1.0.0",
+	"main": "index.js",
+  "private": true,
+	"repository": "https://github.com/yswarkare/simple-react-apps.git",
+	"author": "Y. S. Warkare <52399544+yswarkare@users.noreply.github.com>",
+	"license": "MIT",
+	"workspaces": [
+		"apps/*",
+		"apps/todo-apps/*",
+		"packages/*"
+	]
+}
