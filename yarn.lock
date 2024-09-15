@@ -2049,3 +2049,16 @@ yocto-queue@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
+
+"yw-daisyui@https://github.com/yswarkare/yw-daisyui.git":
+  version "0.1.0"
+  resolved "https://github.com/yswarkare/yw-daisyui.git#1e4ce72cc641283cd0fddd93e390c96e565a6340"
+
+"yw-icons@file:":
+  version "1.0.0"
+
+"yw-icons@https://github.com/yswarkare/yw-icons.git":
+  version "0.1.0"
+  resolved "https://github.com/yswarkare/yw-icons.git#9f4719cbce0db8dc9db9555f4d398e8f5b049ae2"
+  dependencies:
+    yw-icons "file:C:/Users/Y.S.Warkare/AppData/Local/Yarn/Cache/v6/npm-yw-icons-0.1.0-9f4719cbce0db8dc9db9555f4d398e8f5b049ae2/node_modules/yw-icons"

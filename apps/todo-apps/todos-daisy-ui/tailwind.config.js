@@ -8,10 +8,8 @@ export default {
 	// daisyUI config (optional - here are the default values)
 	daisyui: {
 		themes: [
-			'light',
-			'dark',
 			{
-				mytheme: {
+				altDark: {
 					primary: '#ECDFCC',
 					secondary: '#FFDC7F',
 					accent: '#A0937D',
@@ -23,6 +21,8 @@ export default {
 					error: '#E4003A',
 				},
 			},
+			'light',
+			'dark',
 		], // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
 		darkTheme: 'dark', // name of one of the included themes for dark mode
 		base: true, // applies background color and foreground color for root element by default
